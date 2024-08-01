@@ -30,6 +30,8 @@ Insira sua altura em centímetros no campo "Altura (cm)".
 Insira seu peso em quilogramas no campo "Peso (kg)".
 Clique no botão "Calcular IMC".
 O resultado será exibido abaixo, incluindo o cálculo detalhado e a classificação do IMC.
+
+
 ![1](https://github.com/user-attachments/assets/5620ca5c-6ca2-41b0-b528-6fb15ed6e187)
 ![2](https://github.com/user-attachments/assets/35615181-8450-4172-b29f-3fb35b753e43)
 
